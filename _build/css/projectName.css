@@ -1,0 +1,40 @@
+#global1 {
+  color: #000;
+}
+#global2 {
+  color: #111;
+}
+#module1 {
+  color: #333;
+}
+#module2 {
+  color: #444;
+}
+#module3 {
+  color: #555;
+}
+#page1 {
+  width: 200px;
+  height: 200px;
+  color: #666;
+  font-size: 15px;
+  background: url("../images/module1/1.jpg") 0 0 no-repeat;
+}
+#page1 a {
+  color: #111;
+  font-size: 40px;
+}
+.xxx {
+  height: 300px;
+  width: 100px;
+  background: #555;
+}
+#page2 {
+  color: #666;
+  font-size: 19px;
+}
+#page3 {
+  color: #777;
+  font-size: 10px;
+}
+/*# sourceMappingURL=projectName.css.map */

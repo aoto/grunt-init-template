@@ -1,0 +1,2 @@
+/*! projectName - 0.0.1 - 2014-10-27 */
+window.alert=function(a){console.log(a,new Date)};var module1={};window.alert(module1.constructor);var module2={};window.alert(module2.constructor);var module3={};window.alert(module3.constructor);var page1={init:function(){return 111111}};window.alert(page1.init());var page2={};window.alert(page2.constructor);var page3={};window.alert(page3.constructor);
