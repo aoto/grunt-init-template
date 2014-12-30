@@ -1,0 +1,2 @@
+var dialog = {};
+dialog.toString();

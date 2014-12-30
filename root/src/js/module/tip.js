@@ -1,0 +1,2 @@
+var tip = {};
+tip.toString();

@@ -1,0 +1,8 @@
+{
+  "jsdir": "src/js",
+  "cssdir": "src/css",
+  "lessdir": "src/less",
+  "sassdir": "src/sass",
+  "imgdir": "src/images",
+  "tpldir": "src/tpls"
+}

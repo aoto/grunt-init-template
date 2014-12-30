@@ -1,0 +1,2 @@
+var util = {};
+util.toString();

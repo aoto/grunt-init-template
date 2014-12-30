@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.tip {
+  position: fixed;
+  left: 0;
+  top: 40%;
+  width: 100%;
+  z-index: 10002;
+  text-align: center;
+  opacity: 0;
+}

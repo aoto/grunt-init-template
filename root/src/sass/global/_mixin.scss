@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@mixin clearfix {
+  overflow: auto;
+}
+
+@mixin left($value: 10px) {
+  float: left;
+  margin-right: $value;
+}
+
+@mixin right($value: 10px) {
+  float: right;
+  margin-left: $value;
+}

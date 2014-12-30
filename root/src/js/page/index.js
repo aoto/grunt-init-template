@@ -1,0 +1,2 @@
+var index = {};
+index.toString();

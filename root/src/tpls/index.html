@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh" manifest="manifest.appcache">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{%= title %}</title>
+  <meta name="keywords" content="{%= keywords %}" />
+  <meta name="description" content="{%= description %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="@@build_dir/css/common.css?v=@@timestamp">
+  <link rel="stylesheet" href="@@build_dir/css/{%= name %}.css?v=@@timestamp">
+</head>
+
+<body>
+
+  include1
+
+  <script src="@@build_dir/js/common.js?v=@@timestamp"></script>
+  <script src="@@build_dir/js/{%= name %}.js?v=@@timestamp"></script>
+</body>
+
+</html>

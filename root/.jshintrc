@@ -1,0 +1,31 @@
+{
+	"boss": true,
+	"curly": true,
+	"eqeqeq": false,
+	"eqnull": true,
+	"expr": true,
+	"immed": false,
+	"noarg": true,
+	"onevar": true,
+	"quotmark": false,
+	"smarttabs": true,
+	"trailing": true,
+	"undef": true,
+	"unused": true,
+	"node": true,
+
+  "globals": {
+    "jQuery": true,
+    "$": true,
+    "_": true,
+    "window": true,
+    "document": true,
+    "console": true,
+    "localStorage": true,
+    "Handlebars": true,
+    "Image": true,
+    "Date": true,
+    "chrome": true,
+    "XMLHttpRequest": true
+  }
+}
